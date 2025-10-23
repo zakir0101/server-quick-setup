@@ -1,1 +1,1 @@
-sudo apt install -y fd-find ripgrep zsh
+sudo apt install -y fd-find ripgrep zsh cmake gh
